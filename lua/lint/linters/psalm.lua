@@ -34,6 +34,6 @@ return {
       })
     end
 
-    return diagnostics;
+    return diagnostics
   end,
 }
